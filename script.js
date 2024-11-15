@@ -14,4 +14,4 @@ const resultadoRaiz = Math.pow(2, 4/4)
 
 console.log(raiz, raizCubica, resultadoRaiz)
 
-//Atualização 08/11/2024
+//Atualização 15/11/2024
